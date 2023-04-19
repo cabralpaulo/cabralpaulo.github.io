@@ -1,0 +1,141 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=IBM+Plex+Sans:wght@700&display=swap');
+
+body ,html{
+  margin: 0;
+  height: 100%;
+  scroll-behavior: smooth;
+}
+/*Navbar*/
+.navbar{
+  color: #FFF;
+  background-color: black;
+}
+.nav-item{
+  font-family: 'Helvetica Neue';
+  font-size: 16px;
+  margin-right: 20px;
+  color: white;
+  
+}
+
+.navbar-brand{
+  font-size: 40px;
+  margin-left: 20px;
+}
+
+.nav-link{
+  color: white;
+  text-decoration: none;
+}
+
+.nav-link:hover {
+  color: orange;
+}
+/*navbar ends*/
+article {
+  padding-top: 2%;
+  padding-bottom: 2%;
+}
+h2{
+  text-align: center;
+  padding: 2rem;
+  font-family:  60px;
+  font-family:'Bebas Neue', cursive;
+}
+
+
+
+/*Grid System*/
+.grid-container {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 10px;
+}
+
+.grid-item {
+  width: 100%;
+}
+
+
+.explanation{
+  align-items: center;
+  justify-content: center;
+  font-family: 'helvetica neue';
+}
+
+/*Fixed Button with links for other sites*/
+
+.component_home{
+  text-align: center;
+}
+
+/*Fixed Button with links for other ends*/
+
+/* Button Check the website */
+.btn{
+  background-color:#e24f9b;
+  font-family:  'Helvetica Neue';
+  color: #FFF;
+}
+
+a{
+  color: #FFF;
+  text-decoration: none;
+}
+
+.btn:hover{
+  background-color: #f09c28;
+  color: #FFF;
+}
+
+ /*Making it Responsive*/ 
+@media screen and (max-width: 767px) {
+  .grid-container {
+    grid-template-columns: 1fr;
+  }
+}
+
+/*Paragraph-Body*/
+.explanation{
+  text-align: center;
+  padding-right: 25%;
+  padding-left: 25%;
+}
+  
+/*Back Button*/
+.back-button a{
+  font-family: "Helvetica Neue";
+  text-decoration: none;
+  color: #ec9a27;
+  
+}
+/*Footer*/
+.footer{
+  background-color:#000;
+  color:white;
+  font-family: 'Helvetica Neue';
+  font-size:20px;
+}
+  
+.footer_links {
+  list-style: none;
+}
+  
+  
+.footer_links a:hover{
+  color:orange;
+}
+  
+.logo_footer{
+  width:150px;
+  height: 150px;
+}
+  
+.copy{
+  display: flex;
+  justify-content: center;
+}
+
+
+ 
+  

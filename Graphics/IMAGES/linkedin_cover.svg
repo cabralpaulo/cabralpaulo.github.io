@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" width="464.01" height="238.63" viewBox="0 0 464.01 238.63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #f09c28;
+        font-size: 90.69px;
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        font-family: BebasNeue-Regular, 'Bebas Neue';
+      }
+
+      .cls-4, .cls-3 {
+        fill: #e24f9b;
+      }
+
+      .cls-2 {
+        fill: #9ec8ea;
+        font-size: 106.83px;
+      }
+
+      .cls-3 {
+        font-size: 38.26px;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <rect width="464.01" height="238.63"/>
+    <g>
+      <g>
+        <text class="cls-1" transform="translate(201.48 117.39) rotate(90) scale(1.08 1)"><tspan x="0" y="0">P</tspan></text>
+        <g>
+          <text class="cls-2" transform="translate(271.92 115.5) rotate(-90) scale(1.08 1)"><tspan x="0" y="0">P</tspan></text>
+          <text class="cls-3" transform="translate(231.76 104.95) rotate(-90) scale(1.49 1)"><tspan x="0" y="0">C</tspan></text>
+        </g>
+      </g>
+      <ellipse class="cls-4" cx="247.88" cy="110.76" rx="9.02" ry="9.76"/>
+    </g>
+  </g>
+</svg>

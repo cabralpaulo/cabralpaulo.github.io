@@ -2,7 +2,7 @@
 Design and Development of Dog Cafe
 
 
-# han/
+
 login page ideas from YouTube-True Coder [Responsive Animated Login Form](https://youtu.be/t-EMinSz_Tk)
 
 # Policies Page idea from: 

@@ -281,6 +281,7 @@ a{
 
 .footer_links {
   list-style: none;
+  text-decoration: underline;
 }
 
 
@@ -291,6 +292,10 @@ a{
 .logo_footer{
   width:150px;
   height: 150px;
+}
+
+p{
+  font-size: 1rem;
 }
 
 .copy{

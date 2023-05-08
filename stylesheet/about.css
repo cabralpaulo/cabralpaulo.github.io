@@ -115,6 +115,7 @@ h2{
   
 .footer_links {
 list-style: none; 
+text-decoration: underline;
 }
 
 a:any-link{

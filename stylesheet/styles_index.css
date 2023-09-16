@@ -201,16 +201,41 @@ body ,html{
   
 }
 
-
-
-
-
 /*Media Screen Mobile*/
 /*Navbar*/
 
+/*Hero Styles*/
+.main{
+  background-color: #141414;
+}
+
+.main__container{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  justify-self: center;
+  margin: 0 auto;
+  height: 70vh;
+  background-color: #141414;
+  width: 100%;
+  max-width: 1300px;
+  padding: 0 50px;
+}
+
+.main__content h1{
+  font-size: 4rem;
+  background-color:#9ec8ea;
+  background-image: linear-gradient(to top,#009aff  0%,#9ec8ea 100%);
+  background-size: 100%;
+  -webkit-background-clip: text;
+  -moz-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -moz-text-fill-color: transparent;
+
+}
 
 
-
+/*Hero Styles Ends*/
 /*Landing Page*/
 /*Introduction Section*/
 
